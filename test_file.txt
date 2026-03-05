@@ -2,3 +2,6 @@ Line 1: Change from branch1 (DIFFERENT!)
 Line 2: Second change from branch1
 Line 3: Third change from branch1
 Line 4: Additional change 1 in branch1
+Line 5: Additional change 2 in branch1
+Line 6: Additional change 3 in branch1
+
