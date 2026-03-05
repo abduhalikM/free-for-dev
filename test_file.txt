@@ -1,1 +1,3 @@
 Line 1: First change in branch2
+Line 2: Second change from branch2
+Line 3: Third change from branch2
